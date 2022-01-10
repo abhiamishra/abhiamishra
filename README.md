@@ -15,7 +15,7 @@ I am a computer science undergrad currently pursuing the fields of AI/ML. I dabb
 ![trophy](https://github-profile-trophy.vercel.app/?username=abhiamishra&theme=onedark)
 
 
-Powered By Chatalytics :tm:
+Powered By Chatalytics:tm:
 </p>
 
 <!--
