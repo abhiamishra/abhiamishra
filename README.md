@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiamishra)](https://github.com/abhiamishra/github-readme-stats)
+[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiamishra&show_icons=true&theme=merko)](https://github.com/abhiamishra/github-readme-stats)
 
 <!--
 **abhiamishra/abhiamishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
