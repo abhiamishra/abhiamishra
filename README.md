@@ -11,6 +11,9 @@ I am a computer science undergrad currently pursuing the fields of AI/ML. I dabb
 [![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiamishra&show_icons=true&theme=dark)](https://github.com/abhiamishra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiamishra&langs_count=8)](https://github.com/abhiamishra/github-readme-stats)
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=abhiamishra&theme=onedark)
+
 
 Powered By Chatalytics
 </p>
