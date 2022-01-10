@@ -4,7 +4,7 @@
 <h2 align="center">Hi, I'm Abhishek Amol Mishra!</h2>
 
 <p>
-## :wave: About Me
+:wave: About Me
 
 I am a computer science undergrad currently pursuing the fields of AI/ML. I dabble in data, machine learning, and like to combine those passions in football (soccer) analytics.
 
