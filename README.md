@@ -6,7 +6,7 @@
 <p>
 :wave: About Me
 
-I am a computer science undergrad currently pursuing the fields of AI/ML. I dabble in data, machine learning, and like to combine those passions in football (soccer) analytics.
+I am a computer science undergrad currently pursuing the fields of AI/ML. I dabble in data, machine learning, and backend development.
 
 [![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiamishra&show_icons=true&theme=dark)](https://github.com/abhiamishra/github-readme-stats)
 
@@ -24,9 +24,9 @@ Powered By Chatalytics:tm:
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ggshakeR and an exciting new project (revealed soon!)
+- 🔭 I’m currently working on an exciting new project (revealed soon!)
 - 🌱 I’m currently learning machine learning and artifical intelligence
-- 👯 I’m looking to collaborate on data, football, and machine learning
+- 👯 I’m looking to collaborate on data, backend developement, and machine learning
 - 🤔 I’m looking for help with ggshakeR! If you know R, let me know!
 - 💬 Ask me about football, data, and music!
 - 📫 How to reach me: abhiamishra0@gmail.com
